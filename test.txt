@@ -1,4 +1,5 @@
 test
 new word
 git diff
+git commit --amend
 
